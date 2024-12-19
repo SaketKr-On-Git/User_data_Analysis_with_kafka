@@ -18,7 +18,7 @@ The project is designed with the following components:
 - **Control Center and Schema Registry**: Provide tools for monitoring Kafka streams and managing schemas.  
 - **Apache Spark**: Processes the data through its master and worker nodes.  
 - **Cassandra**: Serves as the storage solution for the processed data.
-- 
+  
 
 
 ## Technologies
