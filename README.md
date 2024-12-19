@@ -8,7 +8,7 @@ This project serves as a comprehensive guide to building an end-to-end data engi
 
 ## System Architecture
 
-![System Architecture]()
+![System Architecture](https://github.com/SaketKr-On-Git/User_data_Analysis_with_kafka/blob/main/Data%20engineering%20architecture.jpg)
 
 The project is designed with the following components:
 
