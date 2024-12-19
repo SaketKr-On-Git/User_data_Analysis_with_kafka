@@ -36,7 +36,7 @@ The project is designed with the following components:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/airscholar/e2e-data-engineering.git
+    git clone https://github.com/SaketKr-On-Git/User_data_Analysis_with_kafka
     ```
 
 2. Navigate to the project directory:
